@@ -1,0 +1,164 @@
+.sec{
+    background-color: #d7f0d0;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    height: 60px;
+    display: flex;
+}
+
+.logo{
+    height: 50px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+
+.cabeza{
+    display: flex;
+    height: 80px;
+}
+
+.cabeza img{
+}
+
+.p1{
+    display: flex;
+    background-color: rgb(50, 161, 50);
+    border-radius: 20px;
+    color: white;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 70px;
+    width: 650px;
+    font: 20px Arial, sans-serif;
+    margin-left: 285px;
+}
+.p1 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.p2{
+    display: flex;
+    background-color: rgb(224, 223, 134);
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    justify-content: space-evenly;
+    align-items: center;
+    height: 70px;
+    width: 340px;
+    margin-left: 20px;
+    font: 20px Arial, sans-serif;
+}
+
+.p2 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.sec h3{
+    font: 25px Arial, sans-serif;
+}
+
+.texto-derecha{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+    align-items: center;
+    align-content: end;
+    width: 100%;
+    gap: 40px;
+    margin-right: 290px;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    margin-top: 100px;
+}
+
+.imagenes-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+}
+
+.imagenes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 78%;
+    background-position: center;
+}
+
+.imagenes img{
+    width: 450px;
+    height: 440px;
+    margin: 20px;
+}
+
+.ubicacion{
+    display: flex;
+    align-items: center;
+    width: 10%;
+}
+.ubicacion img{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+.ubicacion p{
+    font: 20px Arial, sans-serif;
+    margin-left: 20px;
+}
+.buscador{
+    align-items: center;
+
+}
+.buscador img{
+    width: 90%;
+    height: 70%;
+    align-items: center;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+.persona{
+    display: flex;
+    align-items: center;
+
+}
+
+.persona img{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+
+.persona p{
+    font: 20px Arial, sans-serif;
+    margin-left: 20px;
+}
+
+.carrito{
+    display: flex;
+    align-items: center;
+
+}
+
+.carrito img{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
